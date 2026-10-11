@@ -2,11 +2,6 @@
 
 > An interactive data-science portfolio project for exploring urban signals, visualizing trends, and testing a simple traffic-pressure prediction model.
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/App-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![ML](https://img.shields.io/badge/Model-Random%20Forest-16A085)
-![Status](https://img.shields.io/badge/Status-Portfolio%20Prototype-8B5CF6)
-
 ## ✨ Features
 
 - **Live environmental signals:** current weather and European AQI are retrieved from the Open-Meteo APIs.
